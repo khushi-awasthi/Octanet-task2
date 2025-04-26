@@ -87,9 +87,7 @@
 #         print("salary not in range")
 # else:
 #     print("salary is in range")
-    
-
-def getAge(age):
-    assert age>0,"Age can't be negative!"
-    print("ok your age is:",age)
-getAge(-1)
+# def getAge(age):
+#     assert age>0,"Age can't be negative!"
+#     print("ok your age is:",age)
+# getAge(-1)
