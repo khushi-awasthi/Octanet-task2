@@ -6,8 +6,7 @@
 # class SBI(Bank):
 #     def __init__(self):
 #         # super().__init__(5)
-#         Bank.__init__(self,5
-#                       )
+#         Bank.__init__(self,5)
 #         print("Hello")
 #     def User_Detail(self):
 #         self.username="Khushi"
